@@ -27,7 +27,6 @@
 
 ##### - 변경 -
 
-![image](https://github.com/user-attachments/assets/3f783af5-a48f-4274-92ad-213663e9c7bf)
 
 ### 5. 비밀번호 수정
 
