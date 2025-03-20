@@ -65,6 +65,18 @@
 
 ![image](https://github.com/user-attachments/assets/7de0a273-f5c7-4dd9-b1a5-32aa0f273d8b)
 
+### 14. 유저 팔로우
+
+![image](https://github.com/user-attachments/assets/7bf732c3-90f7-48a7-b812-9a6e4f36356f)
+
+### 15. 유저 언팔로우
+
+![image](https://github.com/user-attachments/assets/6c482d0f-324d-413e-bdbf-53e7bb5cbad9)
+
+
+
+
+
 
 
 
