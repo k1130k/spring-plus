@@ -68,9 +68,25 @@
 
 ![image](https://github.com/user-attachments/assets/7bf732c3-90f7-48a7-b812-9a6e4f36356f)
 
+![image](https://github.com/user-attachments/assets/8bc2e481-a465-4b27-be4c-a6adbdf4ee15)
+
+![image](https://github.com/user-attachments/assets/0184e5bc-ea9e-43c2-97c9-00a78c75edc0)
+
+
+
+
+
 ### 15. 유저 언팔로우
 
 ![image](https://github.com/user-attachments/assets/6c482d0f-324d-413e-bdbf-53e7bb5cbad9)
+
+![image](https://github.com/user-attachments/assets/920ea0d4-e6f3-4bd0-a560-da8ab0bed197)
+
+![image](https://github.com/user-attachments/assets/e9dd94c2-046f-4923-a52c-e63697781d77)
+
+
+
+
 
 ### 16. 게시글 좋아요
 
