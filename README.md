@@ -73,6 +73,45 @@
 
 ![image](https://github.com/user-attachments/assets/6c482d0f-324d-413e-bdbf-53e7bb5cbad9)
 
+### 16. 게시글 좋아요
+
+![image](https://github.com/user-attachments/assets/2a7d4a03-c859-4d25-aba7-9e5e32605d3d)
+
+![image](https://github.com/user-attachments/assets/17316abf-b2df-4cdb-ba16-2468b69bc1e1)
+
+### 17. 게시글 좋아요 취소
+
+![image](https://github.com/user-attachments/assets/cc30ed51-cae3-4f80-b910-dc3c2c444c0b)
+
+![image](https://github.com/user-attachments/assets/2ee620a0-489f-4a89-b4c6-a95678aaa2a8)
+
+### 18. 댓글 좋아요
+
+![image](https://github.com/user-attachments/assets/6198670b-9da6-4089-995a-6d76f68c34f4)
+
+![image](https://github.com/user-attachments/assets/ba9badf3-d7ca-420b-8d59-feb8b6e796dd)
+
+### 19. 댓글 좋아요 취소
+
+![image](https://github.com/user-attachments/assets/f8bc08bd-f6f9-48fb-ac53-270dbc6e56ad)
+
+![image](https://github.com/user-attachments/assets/1a86982b-ef50-4f65-8c8f-d6ce59002a61)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
