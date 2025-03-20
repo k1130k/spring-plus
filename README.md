@@ -21,11 +21,11 @@
 
 ![image](https://github.com/user-attachments/assets/c3db9c57-e96d-4519-beca-c4028da1aa28)
 
-프로필 수정 API호출
+### 프로필 수정 API호출
 
 ![image](https://github.com/user-attachments/assets/5e1693e1-f801-4f43-a91b-705f831a03e2)
 
-변경
+### 변경
 
 
 
