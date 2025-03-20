@@ -49,6 +49,28 @@
 
 ![image](https://github.com/user-attachments/assets/626ceb18-0328-4bdf-8cd2-6d7050240156)
 
+### 10. 댓글 작성
+
+![image](https://github.com/user-attachments/assets/09c64175-2af0-4157-8a3a-bb30e939b135)
+
+### 11. 댓글 조회
+
+![image](https://github.com/user-attachments/assets/60898db9-be38-40e5-9de7-4cec0dda3ca0)
+
+### 12. 댓글 수정
+
+![image](https://github.com/user-attachments/assets/6f69edc4-bad7-4d8b-a15d-80dbba357b56)
+
+### 13. 댓글 삭제
+
+![image](https://github.com/user-attachments/assets/7de0a273-f5c7-4dd9-b1a5-32aa0f273d8b)
+
+
+
+
+
+
+
 
 
 
